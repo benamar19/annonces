@@ -42,7 +42,7 @@ import com.eBenamar.Dao.AutoInterfaceDao;
 import com.eBenamar.Entities.Annonce;
 import com.eBenamar.Entities.AnnonceAuto;
 import com.eBenamar.Entities.Auto;
-
+// commentaires
 // controller
 @Controller
 public class AnnonceController {
